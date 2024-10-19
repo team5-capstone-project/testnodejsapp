@@ -1,5 +1,6 @@
 name: Publish Docker image with Caching
 on:
+  workflow_dispatch:
   push:
     branches: ["main"]
 
