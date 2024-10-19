@@ -1,4 +1,4 @@
-name: Publish Docker image
+name: Publish Docker image with Caching
 on:
   push:
     branches: ["main"]
